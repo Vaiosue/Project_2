@@ -1,4 +1,4 @@
-# Project_2
+# ETL FIFA Project
 Extracted, transformed, loaded, and analyzed FIFA data using SQL and PowerBI.
 
 ![powerbi1](PowerBI1.png)
